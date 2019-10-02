@@ -6,7 +6,8 @@ $otomatik_ayar = true;
 $ayar_site = "";//Otomatik Ayar true ise Gerekmez
 $ayar_dizin = "";//Otomatik Ayar true ise Gerekmez
 $ayar_alt_dizin = "/mvc"; //eğer siteniz alt dizinde ise ekleyiniz /altdizin
-$ayar_yonetim_paneli = "";
+$ayar_yonetim_paneli = ""; //Yönetim Paneli dizini
+$olcum = false;
 
 
 //STARTUP SETTINGS - BAŞLANGIÇ AYARLARI
